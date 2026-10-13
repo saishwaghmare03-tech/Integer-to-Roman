@@ -8,7 +8,7 @@
 Seven different symbols represent Roman numerals with the following values:
 
 | Symbol | Value |
-| :---: | :---: |
+| :---: | :---: | 
 | I | 1 |
 | V | 5 |
 | X | 10 |
